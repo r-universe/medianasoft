@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MCPModPack"]
 	path = MCPModPack
 	url = https://github.com/medianasoft/mcpmodpack
-	shallow = true
-	registered = true
 [submodule "MedianaDesigner"]
 	path = MedianaDesigner
 	url = https://github.com/medianasoft/medianadesigner
-	shallow = true
-	registered = true
